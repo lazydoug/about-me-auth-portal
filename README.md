@@ -1,4 +1,4 @@
-# Responsive Checkout Page Assignment
+# About Me Page Assignment
 
 This repository contains my implementation of an about me page, featuring ALTSchool's signin and signup pages. This project was created as part of my ALTSchool first semester assignment. The goal was to showcase proficiency in front-end development, with a specific focus on designing a user-friendly and visually appealing checkout experience.
 
